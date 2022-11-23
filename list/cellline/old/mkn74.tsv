@@ -1,0 +1,12 @@
+accession	description
+"SRR3929881"	"Illumina HiSeq 2500 sequencing; Whole exome-seq of human gastric cancer cell line: MKN74"
+"SRR5894229"	"NextSeq 500 sequencing; GSM2731759: MKN74-mir1271-control2; Homo sapiens; RNA-Seq"
+"SRR5894230"	"NextSeq 500 sequencing; GSM2731760: MKN74-mir1271-control3; Homo sapiens; RNA-Seq"
+"SRR5894231"	"NextSeq 500 sequencing; GSM2731761: MKN74-mir1271-mimic2; Homo sapiens; RNA-Seq"
+"SRR5894232"	"NextSeq 500 sequencing; GSM2731762: MKN74-mir1271-mimic3; Homo sapiens; RNA-Seq"
+"SRR5560481"	"Illumina HiSeq 2000 sequencing; GSM2627669: Idx3 Stomach MKN74; Homo sapiens; Bisulfite-Seq"
+"SRR5560431"	"Illumina HiSeq 2000 sequencing; GSM2627619: Idx23 Stomach MKN74; Homo sapiens; Bisulfite-Seq"
+"SRR3929857"	"Illumina HiSeq 2500 sequencing; RNA-seq of human gastric cancer cell line: MKN74"
+"SRR8633864"	"Illumina HiSeq 2000 sequencing; RRBS of MKN74_STOMACH"
+"SRR8652119"	"Illumina HiSeq 2000 sequencing; WGS of MKN74_STOMACH"
+"SRR8636068"	"Illumina HiSeq 2000 sequencing; RainDance of MKN74_STOMACH"

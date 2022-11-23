@@ -1,0 +1,10 @@
+accession	description
+"SRR5071684"	"Illumina HiSeq 2000 sequencing; GSM2414790: LS513; Homo sapiens; RNA-Seq"
+"SRR10043496"	"Illumina HiSeq 4000 sequencing; GSM4053398: LS513 H3K27ac HiChIP; Homo sapiens; OTHER"
+"SRR6262541"	"Illumina MiSeq sequencing; Amplicon sequencing of KRAS in edited LS513 cell"
+"SRR787316"	"Illumina Genome Analyzer IIx sequencing; GSM1102644: LS513 Methylation; Homo sapiens; MBD-Seq"
+"SRR6262546"	"Illumina MiSeq sequencing; Amplicon sequencing of KRAS in wild type LS513 cell"
+"SRR787308"	"Illumina Genome Analyzer IIx sequencing; GSM1102636: LS513 total RNA; Homo sapiens; RNA-Seq"
+"SRR8635961"	"Illumina HiSeq 2000 sequencing; RainDance of LS513_LARGE_INTESTINE"
+"SRR8652099"	"Illumina HiSeq 2000 sequencing; WGS of LS513_LARGE_INTESTINE"
+"SRR8633901"	"Illumina HiSeq 2000 sequencing; RRBS of LS513_LARGE_INTESTINE"

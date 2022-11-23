@@ -1,0 +1,12 @@
+accession	description
+"SRR7092024"	"NextSeq 500 sequencing; GSM3124385: WGBS-seq H838; Homo sapiens; Bisulfite-Seq"
+"SRR7092027"	"NextSeq 500 sequencing; GSM3124388: omniATAC-seq H838; Homo sapiens; ATAC-seq"
+"SRR7092023"	"NextSeq 500 sequencing; GSM3124385: WGBS-seq H838; Homo sapiens; Bisulfite-Seq"
+"SRR7092025"	"NextSeq 500 sequencing; GSM3124386: RNA-seq H838; Homo sapiens; RNA-Seq"
+"SRR7092026"	"NextSeq 500 sequencing; GSM3124387: CAGE-seq H838; Homo sapiens; RNA-Seq"
+"SRR4113668"	"Illumina HiSeq 2000 sequencing; GSM2300454: H838 rep1; Homo sapiens; RNA-Seq"
+"SRR4113669"	"Illumina HiSeq 2000 sequencing; GSM2300455: H838 rep2; Homo sapiens; RNA-Seq"
+"SRR11483261"	"Illumina NovaSeq 6000 sequencing; 10x linked-read sequencing of cancer cell line: NCI-H838"
+"SRR8633834"	"Illumina HiSeq 2000 sequencing; RRBS of NCIH838_LUNG"
+"SRR8670706"	"Illumina HiSeq 2000 sequencing; WGS of NCIH838_LUNG"
+"SRR8635543"	"Illumina HiSeq 2000 sequencing; RainDance of NCIH838_LUNG"

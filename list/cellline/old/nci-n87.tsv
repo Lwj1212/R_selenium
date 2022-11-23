@@ -1,0 +1,9 @@
+accession	description
+"SRR10805149"	"Illumina HiSeq 2000 sequencing; GSM4238683: NCI-N87; Homo sapiens; RNA-Seq"
+"SRR11232000"	"Illumina NovaSeq 6000 sequencing; GSM4377711: No-treatment NCI-N87 tumor; Homo sapiens; RNA-Seq"
+"SRR11232001"	"Illumina NovaSeq 6000 sequencing; GSM4377712: T-DM1-refractory NCI-N87 tumor; Homo sapiens; RNA-Seq"
+"SRR11237233"	"Illumina NovaSeq 6000 sequencing; GSM4379720: NCI-N87 in a mouse xenograft model, no treatment; Homo sapiens; RNA-Seq"
+"SRR11237234"	"Illumina NovaSeq 6000 sequencing; GSM4379721: NCI-N87 in a mouse xenograft model, treated with Trastuzumab plus pertuzumab; Homo sapiens; RNA-Seq"
+"SRR8670703"	"Illumina HiSeq 2000 sequencing; WGS of NCIN87_STOMACH"
+"SRR8635403"	"Illumina HiSeq 2000 sequencing; RainDance of NCIN87_STOMACH"
+"SRR8633424"	"Illumina HiSeq 2000 sequencing; RRBS of NCIN87_STOMACH"

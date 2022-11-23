@@ -1,0 +1,12 @@
+accession	description
+"SRR11853566"	"PacBio RS sequencing; MKN1 Iso-seq"
+"SRR3929852"	"Illumina HiSeq 2500 sequencing; Whole exome-seq of human gastric cancer cell line: MKN1"
+"SRR11614202"	"Illumina HiSeq 2000 sequencing; MKN1 MeDIP-seq"
+"SRR11614176"	"Illumina Genome Analyzer sequencing; MKN1 RNA-seq"
+"SRR13282486"	"Illumina HiSeq 2000 sequencing; MKN1 MeDIP-seq"
+"SRR11853568"	"Illumina HiSeq 2000 sequencing; MKN1 short-read RNA-seq"
+"SRR2968697"	"Illumina HiSeq 2000 sequencing; GSM1960227: MKN1.H3K27ac; Homo sapiens; ChIP-Seq"
+"SRR2968698"	"Illumina HiSeq 2000 sequencing; GSM1960228: MKN1.input; Homo sapiens; ChIP-Seq"
+"SRR3929854"	"Illumina HiSeq 2500 sequencing; RNA-seq of human gastric cancer cell line: MKN1"
+"SRR8652123"	"Illumina HiSeq 2000 sequencing; WGS of MKN1_STOMACH"
+"SRR8633902"	"Illumina HiSeq 2000 sequencing; RRBS of MKN1_STOMACH"
